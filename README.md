@@ -16,9 +16,9 @@ This prototype has been designed with the below scope.
 5.	Go to project root(shown below)
 6.	Now execute the directory “Terminator”. Yes of course the directory as given below <br>
     <pre> python ./Terminator </pre>
-Note: Pls set PYTHONPATH as below to run the application.
-<pre>export PYTHONPATH=$PYTHONPATH:/path/to/the/project/DevOpsAviator<br>
-<b>Source Code Hierarchy</b>
+Note: Pls set PYTHONPATH as below to run the application.<br>
+export PYTHONPATH=$PYTHONPATH:/path/to/the/project/DevOpsAviator<br>
+<pre><b>Source Code Hierarchy</b>
 DevOpsAviator		               =>	Project Root
 |______init__.py
 |____Config
